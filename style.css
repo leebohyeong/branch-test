@@ -2,7 +2,15 @@ h1 {
     color: saddlebrown;
 }
 
+h2 {
+    color: skyblue;
+}
+
 form {
     padding: 10px;
     border: 2px solid darkblue;
+}
+
+label {
+    display: block;
 }
